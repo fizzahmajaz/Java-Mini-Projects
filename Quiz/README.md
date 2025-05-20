@@ -10,8 +10,7 @@ A simple **console-based quiz application** written in Java. It allows users to 
 2. [Concepts Used](#concepts-used)
 3. [How It Works](#how-it-works)
 4. [Sample Output](#sample-output)
-5. [Folder Structure](#folder-structure)
-6. [Author](#author)
+5. [Author](#author)
 
 ---
 
@@ -95,7 +94,7 @@ C .Kolkata
 
 
 
-## 6. Author <a name="author"></a>
+## 5. Author <a name="author"></a>
 
 Made with 💛 by **[Fizzah M Jaz]**  
 [GitHub Profile](https://github.com/fizzahmajaz)
